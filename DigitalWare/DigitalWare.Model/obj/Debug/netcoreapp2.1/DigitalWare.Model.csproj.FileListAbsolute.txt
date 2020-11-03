@@ -1,0 +1,9 @@
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Model\bin\Debug\netcoreapp2.1\DigitalWare.Model.deps.json
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Model\bin\Debug\netcoreapp2.1\DigitalWare.Model.dll
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Model\bin\Debug\netcoreapp2.1\DigitalWare.Model.pdb
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Model\obj\Debug\netcoreapp2.1\DigitalWare.Model.csprojAssemblyReference.cache
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Model\obj\Debug\netcoreapp2.1\DigitalWare.Model.AssemblyInfoInputs.cache
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Model\obj\Debug\netcoreapp2.1\DigitalWare.Model.AssemblyInfo.cs
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Model\obj\Debug\netcoreapp2.1\DigitalWare.Model.dll
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Model\obj\Debug\netcoreapp2.1\DigitalWare.Model.pdb
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Model\obj\Debug\netcoreapp2.1\DigitalWare.Model.csproj.CoreCompileInputs.cache

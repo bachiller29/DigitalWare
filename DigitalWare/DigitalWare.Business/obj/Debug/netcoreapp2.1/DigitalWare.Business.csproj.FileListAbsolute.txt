@@ -1,0 +1,12 @@
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Business\bin\Debug\netcoreapp2.1\DigitalWare.Business.deps.json
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Business\bin\Debug\netcoreapp2.1\DigitalWare.Business.dll
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Business\bin\Debug\netcoreapp2.1\DigitalWare.Business.pdb
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Business\obj\Debug\netcoreapp2.1\DigitalWare.Business.csprojAssemblyReference.cache
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Business\obj\Debug\netcoreapp2.1\DigitalWare.Business.AssemblyInfoInputs.cache
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Business\obj\Debug\netcoreapp2.1\DigitalWare.Business.AssemblyInfo.cs
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Business\obj\Debug\netcoreapp2.1\DigitalWare.Business.csproj.CoreCompileInputs.cache
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Business\obj\Debug\netcoreapp2.1\DigitalWare.Business.dll
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Business\obj\Debug\netcoreapp2.1\DigitalWare.Business.pdb
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Business\bin\Debug\netcoreapp2.1\DigitalWare.Model.dll
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Business\bin\Debug\netcoreapp2.1\DigitalWare.Model.pdb
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Business\obj\Debug\netcoreapp2.1\DigitalWare.Business.csproj.CopyComplete

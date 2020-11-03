@@ -1,0 +1,17 @@
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Data\bin\Debug\netcoreapp2.1\DigitalWare.Data.deps.json
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Data\bin\Debug\netcoreapp2.1\DigitalWare.Data.dll
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Data\obj\Debug\netcoreapp2.1\DigitalWare.Data.AssemblyInfoInputs.cache
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Data\obj\Debug\netcoreapp2.1\DigitalWare.Data.AssemblyInfo.cs
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Data\obj\Debug\netcoreapp2.1\DigitalWare.Data.csprojAssemblyReference.cache
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Data\bin\Debug\netcoreapp2.1\DigitalWare.Data.runtimeconfig.json
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Data\bin\Debug\netcoreapp2.1\DigitalWare.Data.runtimeconfig.dev.json
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Data\obj\Debug\netcoreapp2.1\DigitalWare.Data.genruntimeconfig.cache
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Data\bin\Debug\netcoreapp2.1\DigitalWare.Data.pdb
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Data\obj\Debug\netcoreapp2.1\DigitalWare.Data.csproj.CoreCompileInputs.cache
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Data\obj\Debug\netcoreapp2.1\DigitalWare.Data.dll
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Data\obj\Debug\netcoreapp2.1\DigitalWare.Data.pdb
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Data\bin\Debug\netcoreapp2.1\DigitalWare.Business.dll
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Data\bin\Debug\netcoreapp2.1\DigitalWare.Model.dll
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Data\bin\Debug\netcoreapp2.1\DigitalWare.Business.pdb
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Data\bin\Debug\netcoreapp2.1\DigitalWare.Model.pdb
+F:\Pruebastecnicas\DigitalWare\DigitalWare.Data\obj\Debug\netcoreapp2.1\DigitalWare.Data.csproj.CopyComplete
